@@ -1,0 +1,162 @@
+[
+  {
+    "Option a": "Black box testing",
+    "Option b": "White box testing",
+    "answer": "d",
+    "Question": "Q1 : Which Testing is performed first?",
+    "Option c": "Dynamic testing",
+    "Option d": "Static testing"
+  },
+  {
+    "Option a": "Condition coverage is also known as Predicate Coverage",
+    "Option b": "100% condition coverage does not guarantee 100% decision coverage.",
+    "answer": "c",
+    "Question": "Q2 : Which is not true?",
+    "Option c": "Error guessing has rules for testing.",
+    "Option d": "Predicate Coverage uses Boolean values."
+  },
+  {
+    "Option a": "Author",
+    "Option b": "Moderator",
+    "answer": "a",
+    "Question": "Q3 : Who leads a walk through?",
+    "Option c": "Reviewer",
+    "Option d": "Scribe"
+  },
+  {
+    "Option a": "Early feedback of a quality.",
+    "Option b": "Less rework cost.",
+    "answer": "d",
+    "Question": "Q4 : Which are the benefits of Static Testing?",
+    "Option c": "Increased developmental productivity.",
+    "Option d": "All of the above"
+  },
+  {
+    "Option a": "Cause-Effect Table",
+    "Option b": "State transition Testing",
+    "answer": "c",
+    "Question": "Q5 : Which of the followings is\/are not a Specification Based Technique?",
+    "Option c": "Decision Coverage",
+    "Option d": "Use case Testing"
+  },
+  {
+    "Option a": "A set of test cases for testing classes of objects.",
+    "Option b": "An input or output range of values such as have only one value in the range becomes a test case.",
+    "answer": "b",
+    "Question": "Q6 : What is an Equivalence Partition?",
+    "Option c": "An input or output range of values such that each value in the range becomes a test case",
+    "Option d": "An input or output range of values such that every tenth value in the range becomes a test case."
+  },
+  {
+    "Option a": "lack of Training",
+    "Option b": "lack of Testing Tools",
+    "answer": "d",
+    "Question": "Q7 : Why it is difficult for a developer to do a testing job?",
+    "Option c": "lack of Technical Documents",
+    "Option d": "lack of Objectives"
+  },
+  {
+    "Option a": "Good Programmer",
+    "Option b": "Reliable",
+    "answer": "a",
+    "Question": "Q8 : Which is least required skill of a Tester?",
+    "Option c": "Attention to details",
+    "Option d": "Being diplomatic"
+  },
+  {
+    "Option a": "determine when to release a system",
+    "Option b": "Reallocate resources to meet objectives",
+    "answer": "d",
+    "Question": "Q9 :  What is a role of Test Manager?",
+    "Option c": "report deviations in project plan",
+    "Option d": "raise incidents on fault"
+  },
+  {
+    "Option a": "Test implementation and execution",
+    "Option b": "Test planning and control",
+    "answer": "c",
+    "Question": "Q10 : During which activity tester decides if extra test cases are required or not?",
+    "Option c": "Test analysis and design",
+    "Option d": "Evaluating exit criteria"
+  },
+  {
+    "Option a": "Line Of Code (LOC)",
+    "Option b": "Execution Speed",
+    "answer": "d",
+    "Question": "Q11 : What Direct measures include in the Software product?",
+    "Option c": "Defect reported",
+    "Option d": "All of these"
+  },
+  {
+    "Option a": "Verified",
+    "Option b": "Deferred",
+    "answer": "c",
+    "Question": "Q12 : Which is not the state of bug in bug Life Cycle?",
+    "Option c": "Critical",
+    "Option d": "Postponed"
+  },
+  {
+    "Option a": "Verification",
+    "Option b": "Validation",
+    "answer": "a",
+    "Question": "Q13 : Which activity is carried out first?",
+    "Option c": "Both",
+    "Option d": "None"
+  },
+  {
+    "Option a": "Smoke",
+    "Option b": "Sanity",
+    "answer": "a",
+    "Question": "Q14 : Which testing is performed first?",
+    "Option c": "Depending upon project one can selected first for execution",
+    "Option d": "Simultaneously"
+  },
+  {
+    "Option a": "Control of test item",
+    "Option b": "Negative consequences",
+    "answer": "d",
+    "Question": "Q15 : What is associated with the Product Risk?",
+    "Option c": "non-availability of test environment",
+    "Option d": "Test object"
+  },
+  {
+    "Option a": "test planning",
+    "Option b": "test recording",
+    "answer": "d",
+    "Question": "Q16:  Test cases are designed during?",
+    "Option c": "test configuration",
+    "Option d": "test specification"
+  },
+  {
+    "Option a": "Evaluating exit criteria and reporting",
+    "Option b": "Test closure activity",
+    "answer": "c",
+    "Question": "Q17 : During which phase discrepancies are reported as defects?",
+    "Option c": "Test implementation and execution",
+    "Option d": "Test analysis and design"
+  },
+  {
+    "Option a": "Defect deduction percentage",
+    "Option b": "Defect division percentage",
+    "answer": "d",
+    "Question": "Q18 : Which metric is used to compare the Field Defects with the Test Defects?",
+    "Option c": "Defect detection percentage",
+    "Option d": "All of the above"
+  },
+  {
+    "Option a": "Priority is impact of defect on business",
+    "Option b": "Priority can be urgent,high,medium,low",
+    "answer": "c",
+    "Question": "Q19 : What is not true about priority?",
+    "Option c": "Priority once assigned can not be changed.",
+    "Option d": "All of the above"
+  },
+  {
+    "Option a": "On request of customer",
+    "Option b": "After system is ready",
+    "answer": "c",
+    "Question": "Q20 : When is Acceptance Testing performed in Agile development?",
+    "Option c": "At the end of each iteration",
+    "Option d": "Daily"
+  }
+]
